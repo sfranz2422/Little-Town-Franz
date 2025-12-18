@@ -47,3 +47,9 @@ y+=vy
 
 
 }
+
+//depth sorting
+depth = -y;
+show_debug_message( depth);
+
+show_debug_message( y);
